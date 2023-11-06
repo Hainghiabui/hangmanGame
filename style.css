@@ -6,7 +6,6 @@
   list-style: none;
   font-family: "Open Sans", sans-serif;
   transition: all 0.3s ease;
-  overflow: hidden;
 }
 body {
   background-image: linear-gradient(
